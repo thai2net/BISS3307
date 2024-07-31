@@ -45,9 +45,9 @@
 - Discussion on Business Requirements and Technical Solutions
 
 
-### [08-Cross-Platform Development on Cloud Services](Chapter05/README.md)
-### [09-Cross-Platform Development on Web Platforms](Chapter05/README.md)
-### [10-Summary and Trends](Chapter05/README.md)
+### [08-Cross-Platform Development on Cloud Services](Chapter08/README.md)
+### [09-Cross-Platform Development on Web Platforms](Chapter09/README.md)
+### [10-Summary and Trends](Chapter10/README.md)
 
 ## Project Work
 - Students work on their own projects or team projects using the knowledge gained throughout the course
