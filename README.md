@@ -14,7 +14,7 @@
   - Building and Deploying Android Apps
 - **Workshop:** Simple App Development for iOS and Android (e.g., To-do List App)
 
-### [03-Cross-Platform Development](Chapter03/README.md)
+### [03-Cross-Platform Frameworks](Chapter03/README.md)
 - Overview of Cross-Platform Development
 - Benefits and Challenges
 - Comparing Native vs. Cross-Platform
