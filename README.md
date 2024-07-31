@@ -5,7 +5,7 @@
 - Understanding the Business Value of Mobile Apps
 - Introduction to Development Environments and Tools
 
-### W03-04: [Native iOS and Android vs. Cross-Platform Frameworks](Chapter02/README.md)
+### W03-04: [Native iOS and Android](Chapter02/README.md)
 - **Native iOS Development:**
   - Overview of Swift and Xcode
   - Building and Deploying iOS Apps
@@ -14,7 +14,7 @@
   - Building and Deploying Android Apps
 - **Workshop:** Simple App Development for iOS and Android (e.g., To-do List App)
 
-### W05-06: [Introduction to Cross-Platform Development](Chapter03/README.md)
+### W05-06: [Cross-Platform Development](Chapter03/README.md)
 - Overview of Cross-Platform Development
 - Benefits and Challenges
 - Comparing Native vs. Cross-Platform
