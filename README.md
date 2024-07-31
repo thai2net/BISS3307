@@ -36,7 +36,7 @@
 - Building and Deploying Apps with Flutter
 - **Workshop:** Simple App Development with Flutter (e.g., Expense Tracker App)
 
-### W13-14: Case Study: [Flutter for Business Applications](Chapter07/README.md)
+### W13-14: Case Study: [Business Applications](Chapter07/README.md)
 - Overview of Case Studies in Mobile App Development
 - In-depth Analysis of 3 Sample Projects
   - Project 1: E-commerce App
